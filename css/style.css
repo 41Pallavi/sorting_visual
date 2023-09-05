@@ -1,0 +1,61 @@
+nav {
+    color: black;
+    display: inline-block;
+  }
+body{
+    background-color: black;
+}
+
+  nav .array-inputs #a_size {
+    padding: 5% 0%;
+  }
+
+  nav .array-inputs #a_speed {
+    padding: 5% 0%;
+  }
+  nav .array-inputs #a_generate {
+    color: rgb(27, 199, 225);
+    font-size: x-large;
+    padding: 10px;
+    display: inline-block;
+     position: relative;
+     bottom: 30px;
+     left: 240px;
+     margin-bottom: 0px;
+    background-color:whitesmoke;
+  }
+  nav .array-inputs #a_generate:hover{
+    background-color:rgb(225, 27, 70);;
+
+ }
+ nav .header_right .algos {
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    bottom: 350px;
+  }
+  nav .header_right .algos button {
+    color: rgb(27, 199, 225);
+    margin-right: 30px;
+    font-size: x-large;
+  }
+  nav .header_right .nav-heading{
+    position: relative;
+    left: 520px;
+    bottom:350px;
+    color: rgb(27, 199, 225);
+    font-size: 40px;
+    text-decoration: underline;
+  }
+  nav .header_right .algos button:hover {
+    background-color: rgb(233, 23, 23);
+  }
+  section #array_container {
+    display: inline-flex;
+    position: relative;
+    bottom:100px;
+    width: 80%;
+    height: 220px;
+    left: 180px;
+    align-items: flex-end;
+  }
